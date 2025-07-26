@@ -88,7 +88,7 @@ I'm always open to feedback and guidance. Let's connect and grow together!
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---

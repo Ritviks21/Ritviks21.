@@ -1,13 +1,7 @@
 <p align="center">
   <a href="https://github.com/Ritviks21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there%2C+I'm+Ritvik+👋;I'm+a+Developer+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <em>I'm a passionate developer from India 🇮🇳 with a focus on solving real-world problems using Computer Vision and Machine Learning.
-  <br>
-  My goal is to build intelligent systems, and I love the journey of iterative development and debugging.</em>
 </p>
 
 <p align="center">
@@ -24,9 +18,19 @@
 
 ---
 
+### 👨‍💻 About Me
+
+I'm a beginner developer from India 🇮🇳, currently exploring the exciting world of **Computer Vision** and **Machine Learning**. I'm not an expert in anything yet, but I'm passionate about learning and building projects that solve real-world problems. 
+
+I'm always open to feedback and guidance. Let's connect and grow together!
+
+- 📫 You can reach out to me at: **ritvikrajs99@gmail.com**
+
+---
+
 ## 🚀 My Featured Project
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Silicon Sentinel</h3>
@@ -72,11 +76,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://static.streamlit.io/badges/streamlit_logo_black_white_transparent.svg" alt="streamlit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
   </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
@@ -96,5 +108,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritviks21&style=flat-square&color=blue" alt="Profile Views">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRitviks21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views">
+  </a>
 </p>

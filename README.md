@@ -102,11 +102,11 @@ I'm always open to feedback and guidance. Let's connect and grow together!
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritviks21&theme=dracula&hide_border=true" alt="GitHub Trophies">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritviks21&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
 </p>

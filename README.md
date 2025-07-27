@@ -73,34 +73,16 @@ I'm always open to feedback and guidance. Let's connect and grow together!
 
 ## 🛠️ My Tech Stack & Skills
 
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,qiskit,opencv,numpy,pandas,streamlit,git&theme=dark" />
+</p>
+
+---
+
+## 📊 My GitHub Metrics
+
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://qiskit.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qiskit/qiskit-original.svg" alt="qiskit" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://github.com/Ritviks21/Ritviks21/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
 
 ---
@@ -108,25 +90,5 @@ I'm always open to feedback and guidance. Let's connect and grow together!
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-## 📊 My GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritviks21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritviks21&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritviks21&theme=dracula&hide_border=true" alt="GitHub Trophies">
-</p>
-
----
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
+  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>

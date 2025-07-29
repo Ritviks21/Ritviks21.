@@ -20,9 +20,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a beginner developer from India 🇮🇳, currently exploring the exciting worlds of *Computer Vision, **Generative AI, and **Quantum Simulation*. I'm passionate about learning and building projects that tackle unique, real-world problems.
+I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
 
-I'm always open to feedback and guidance. Let's connect and grow together!
+In **Computer Vision**, I build end-to-end pipelines using **PyTorch** and **YOLOv8**, with a focus on solving real-world problems through techniques like **synthetic dataset engineering** for robust defect detection. In parallel, I specialize in **Generative AI**, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering** and **function calling**. I also leverage **Qiskit** to explore **quantum-inspired simulations** for probabilistic modeling.
+
+My goal is to merge these fields to create robust, intuitive, and visually compelling applications.
 
 - 📫 You can reach out to me at: *ritvikrajs99@gmail.com*
 
@@ -128,5 +130,5 @@ I'm always open to feedback and guidance. Let's connect and grow together!
 ---
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
 </p>

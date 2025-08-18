@@ -11,7 +11,7 @@
   <a href="https://huggingface.co/srits21" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/ritvik-raj-singh-429922379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -22,9 +22,9 @@
 
 I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
 
-In **Computer Vision**, I build end-to-end pipelines using **PyTorch** and **YOLOv8**, with a focus on solving real-world problems through techniques like **synthetic dataset engineering** for robust defect detection. In parallel, I specialize in **Generative AI**, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering** and **function calling**. I also leverage **Qiskit** to explore **quantum-inspired simulations** for probabilistic modeling.
+In **Computer Vision**, I build end-to-end pipelines using **PyTorch** and **YOLOv8**, with a focus on solving real-world problems through techniques like **synthetic dataset engineering**. In parallel, I specialize in **Generative AI**, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering** and **function calling**. I also build **full-stack web applications**, creating intuitive and visually compelling user experiences with modern front-end technologies.
 
-My goal is to merge these fields to create robust, intuitive, and visually compelling applications.
+My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
 
 - 📫 You can reach out to me at: *ritvikrajs99@gmail.com*
 
@@ -69,6 +69,24 @@ My goal is to merge these fields to create robust, intuitive, and visually compe
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ MUJ UniWay</h3>
+      <p>A collaborative web-based platform providing accurate, interactive navigation for the Manipal University Jaipur campus. Solves the challenge of on-campus routing by using a custom-mapped GeoJSON dataset of footpaths and roads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/Leaflet-1EB300?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet.js">
+      </p>
+      <a href="https://github.com/Gargi016/MUJ-Uniway"><strong>View Repository &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gargi016.github.io/MUJ-Uniway/">
+        <img src="https://raw.githubusercontent.com/Gargi016/MUJ-Uniway/main/docs/ChatGPT%20Image%20Aug%2013%2C%202025%2C%2003_45_17%20AM.png" alt="MUJ UniWay Banner">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -78,6 +96,9 @@ My goal is to merge these fields to create robust, intuitive, and visually compe
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -100,7 +121,16 @@ My goal is to merge these fields to create robust, intuitive, and visually compe
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
   </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
